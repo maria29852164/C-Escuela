@@ -1,0 +1,13 @@
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.exe
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.deps.json
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.json
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.runtimeconfig.dev.json
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.dll
+C:\Users\yoyo\source\repos\curso\bin\Debug\netcoreapp3.1\curso.pdb
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.csprojAssemblyReference.cache
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfoInputs.cache
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.AssemblyInfo.cs
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.csproj.CoreCompileInputs.cache
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.dll
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.pdb
+C:\Users\yoyo\source\repos\curso\obj\Debug\netcoreapp3.1\curso.genruntimeconfig.cache
